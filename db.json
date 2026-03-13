@@ -1,0 +1,29 @@
+{
+  "inventory": [
+    {
+      "MaterialTitle": {
+        "Name": "Serplex 2 in 1 SOLDERING STATION",
+        "PN": "Serplex 2 in 1 8585",
+        "MF": "Serplex®"
+      },
+      "MID": "MID20344",
+      "MD": "2-IN-1 LCD SOLDERING STATION WITH HOT AIR GUN & SOLDERING IRON.\r\n",
+      "MT": "Lab Assets",
+      "MQNT": 0,
+      "MCost": 3500.0,
+      "MQATG": "#CLASS_0",
+      "ML": "100",
+      "MDS": "https://docs.google.com/viewerng/viewer?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylab2025%2FMID20344%2Fmain%2FProduct%20Description.pdf",
+      "MAF1": "",
+      "MAF2": "",
+      "MAF3": "",
+      "MAF4": "",
+      "MAF5": "",
+      "MR": "",
+      "MaterialImages": [
+        "https://raw.githubusercontent.com/mylab2025/MID20344/main/Screenshot 2026-03-13 114506.png",
+        "https://raw.githubusercontent.com/mylab2025/MID20344/main/Screenshot 2026-03-13 114533.png"
+      ]
+    }
+  ]
+}
